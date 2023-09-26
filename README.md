@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hey there! I'm Ahmad. 👋
 
-<!--
-**Ahmad00Ragab/Ahmad00Ragab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 👨🏻‍💻
 
-Here are some ideas to get you started:
+"I have pursued a degree in Electronics and Communication Engineering, demonstrating a profound passion for the field of Embedded Software, with a particular focus on its 
+ application within the automotive industry."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓   I’m currently Seeking for a job in this industry.
+- 💼   Working as an on-the-job trainee at Avelabs LLC Egypt.
+- 🌱   Learning more about Microcontrollers, Embedded Software,RTOS, and AUTOSAR.
+- 👯 I am open to collaboration on projects related to: Software development, Embedded Systems.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ahmad-haroun-422125124/) | [Gmail](Ahmad.Haroun2023@gmail.com) | [Whatsapp](+201150706330)
+
+## Languages and Tools 🛠️
+
+- 💻  C |  Assebmly (Basics) | Batch Scripting 
+- ⚙️  GitHub | Markdown | MakeFile 
+- 🔧  Code Composer Studio | Eclipse | STM32CubeIDE | NotePad++
