@@ -9,7 +9,7 @@
 - 💼   Working as an on-the-job trainee at Avelabs LLC Egypt.
 - 🌱   Learning more about Microcontrollers, Embedded Software,RTOS, and AUTOSAR.
 - 👯 I am open to collaboration on projects related to: Software development, Embedded Systems.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ahmad-haroun-422125124/) | <a href="mailto:Ahmad.Haroun2023@gmail.com">Send Email</a>
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ahmad-haroun-422125124/) | <a href="Ahmad.Haroun2023@gmail.com">Gmail</a>
 
 
 ## Languages and Tools 🛠️
