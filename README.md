@@ -3,7 +3,7 @@
 ## About Me 👨🏻‍💻
 
 "I have pursued a degree in Electronics and Communication Engineering, demonstrating a profound passion for the field of Embedded Software, with a particular focus on its 
- application within the automotive industry."
+  application within the automotive industry."
 
 - 🎓   I’m currently Seeking for a job in this industry.
 - 💼   Working as an on-the-job trainee at Avelabs LLC Egypt.
@@ -16,4 +16,4 @@
 
 - 💻  C |  Assebmly (Basics) | Batch Scripting 
 - ⚙️  GitHub | Markdown | MakeFile 
-- 🔧  Code Composer Studio | Eclipse | STM32CubeIDE | NotePad++
+- 🔧  Code Composer Studio | Eclipse | STM32CubeIDE | NotePad++ | Proteus
