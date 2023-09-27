@@ -6,7 +6,7 @@
   application within the automotive industry."
 
 - 🎓   I’m currently Seeking for a job in Automotive industry.
-- 💼   Working as an on-the-job trainee at Avelabs LLC Egypt.
+- 💼   Working as an on-the-job trainee at **Avelabs LLC** Egypt.
 - 🌱   Learning more about Microcontrollers, Embedded Software,RTOS, and AUTOSAR.
 - 👯 I am open to collaboration on projects related to: Software development, Embedded Systems.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ahmad-haroun-422125124/) | <a href="mailto:Ahmad.Haroun2023@gmail.com">Gmail</a> |  <a href="https://web.whatsapp.com/">Whatsapp:+201150706330</a> 
