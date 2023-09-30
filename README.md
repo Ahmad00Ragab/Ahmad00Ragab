@@ -4,7 +4,7 @@
 
 "I have pursued a degree in Electronics and Communication Engineering, demonstrating a profound passion for the field of Embedded Software, with a particular focus on its 
   application within the automotive industry."
-img align="right" alt="Coding" width="400" src="./programmer.gif"
+<img align="right" alt="Coding" width="400" src="./programmer.gif">
 - 🎓   I’m currently Seeking for a job in Automotive industry.
 - 💼   Working as an on-the-job trainee at **Avelabs LLC** Egypt.
 - 🌱   Learning more about Microcontrollers, Embedded Software,RTOS, and AUTOSAR.
