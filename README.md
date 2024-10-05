@@ -2,10 +2,9 @@
 
 ## About Me 👨🏻‍💻
 
-"I have pursued a degree in Electronics and Communication Engineering, demonstrating a profound passion for the field of Embedded Software, with a particular focus on its 
-  application within the automotive industry."
+"I have pursued a degree in Electronics and Communication Engineering, demonstrating a profound passion for the field of Software industry, with a particular focus on its application within Web Backend Develomplent , automotive industry, etc..."
 <img align="right" alt="Coding" width="400" src="./programmer.gif">
-- 🎓   I’m currently Seeking a job as a junior Software Engineer.
+- 🎓   I’m currently in an intenership with **Information Technology Institute(iTi)** in Java Backend Development, Seeking a job as a junior Software Engineer.
 - 💼   Worked as an on-the-job trainee at **National Telecommunication Institute(NTI)** Egypt.
 - 💼   Worked as an on-the-job trainee at **Avelabs LLC** Egypt.
 - 🌱   Learning more about Microcontrollers, Embedded Software, RTOS, and AUTOSAR.
@@ -14,7 +13,6 @@
 
 
 ## Languages and Tools 🛠️
-
-- 💻  C |  Assebmly (Basics) | Batch Scripting 
-- ⚙️  GitHub | Markdown | MakeFile 
-- 🔧  Code Composer Studio | Eclipse | STM32CubeIDE | NotePad++ | Proteus
+- 💻  Java | C/C++ |  SQL/Mysql | ORM | Maven | Servlets| JSP| Batch Scripting 
+- ⚙️  Git/GitHub | Markdown | MakeFile 
+- 🔧  Microsoft Visual Studio Code | IntelliJ IDEA | Eclipse | NotePad++  
