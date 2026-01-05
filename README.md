@@ -4,7 +4,8 @@
 
 "I have pursued a degree in Electronics and Communication Engineering, demonstrating a profound passion for the field of Software industry, with a particular focus on its application within Web Backend Develomplent , automotive industry, etc..."
 <img align="right" alt="Coding" width="400" src="./programmer.gif">
-- 🎓   I’m currently in an intenership with **Information Technology Institute(iTi)** in Java Backend Development, Seeking a job as a junior Software Engineer.
+- 💼   Currently working as a Software Developer at Vodafone VOIS, focusing on backend development and enterprise solutions.
+- 🎓   Previously completed an internship  with **Information Technology Institute(iTi)** in Java Backend Development, Seeking a job as a junior Software Engineer.
 - 💼   Worked as an on-the-job trainee at **National Telecommunication Institute(NTI)** Egypt.
 - 💼   Worked as an on-the-job trainee at **Avelabs LLC** Egypt.
 - 🌱   Learning more about Microcontrollers, Embedded Software, RTOS, and AUTOSAR.
